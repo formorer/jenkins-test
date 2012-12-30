@@ -4,6 +4,6 @@
   <scmRepositoryUrl>scm:git:git@github.com:formorer/jenkins-test.git</scmRepositoryUrl>
   <noUserCommitMessage>false</noUserCommitMessage>
   <displayStatus>true</displayStatus>
-  <commitMessagePattern>[message]</commitMessagePattern>
+  <commitMessagePattern>[message2]</commitMessagePattern>
   <manualSynchronizationIncludes/>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
